@@ -1,3 +1,4 @@
+chmod
 pwd
 cd
 ls
